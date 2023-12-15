@@ -21,3 +21,5 @@ npx @electron/asar extract "%localappdata%\Programs\Notion Enhanced\resources\ap
 
 #### if you encountered any problem or question feel free to open an issue or contact me directly on Discord: **@eljooker**
 #### suggestion are welcomed
+
+inispired by [Discord-RPC-for-Notion](https://github.com/Mizari-W/Discord-RPC-for-Notion.git)
