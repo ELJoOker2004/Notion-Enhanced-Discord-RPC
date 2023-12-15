@@ -1,6 +1,8 @@
 # Discord RPC for Notion Enhanced
+ Discord rich presence for notion enhanced application
 
-This is a guide on how to set up Discord Rich Presence for the **Notion Enhanced** application.
+![image](https://github.com/ELJoOker2004/DIscord-RPC-for-Notion-Enhanced/assets/62572632/c986f755-eb23-4eb7-a591-2e7efcebf886)
+
 
 ## How to Use
 
