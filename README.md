@@ -10,7 +10,7 @@
 
 First, ensure that you have the `app` folder in your **`Notion Enhanced/resources`** directory. If it's not present, follow these steps:
 
-- Install `npm` and `npx` if you haven't already.
+- Install `npm` and `npx` if you haven't already AKA `node.js`.
 - Open your command prompt and run the following command:
 
 ```cmd
